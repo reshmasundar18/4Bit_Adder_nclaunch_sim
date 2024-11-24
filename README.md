@@ -12,7 +12,8 @@ Functional Simulation: nclaunch Simulator (nclaunch)
 • To design a 1-bit full adder, the first step is to create a truth table that represents all possible combinations of the inputs (A, B, and CIN) and the corresponding outputs (Sum(S) and COUT).
 
 • Here's the Logic Ic for a 1-bit full adder:
-![image](https://github.com/user-attachments/assets/716a26b6-a449-42e0-9e2d-cdbaa4b291b9)
+![image](https://github.com/user-attachments/assets/b57f8d4c-c240-44ba-b28d-014b80f3d6fb)
+
 
 • Here’s the truth table for a 1-bit full adder:
 
